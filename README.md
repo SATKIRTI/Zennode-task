@@ -8,4 +8,5 @@
 ##### 4- now program will internally calculate the best discount that can be applied to the total.
 ##### 5- final output will be displayed to the user incide console.
 
+
 ## Answer of Task 2 is in the task2.txt file.
