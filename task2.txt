@@ -1,1 +1,61 @@
+1- Why do you like to join as a Software developer?
+-  As an IT graduate, I'm excited about being a software developer because I love using technology to solve real problems. This is a chance to be creative and keep 
+   learning. I find happiness in writing code to solve everyday issues.
+-  I appreciate the changing nature of software development. It means I'm always learning and adapting to new things to stay up-to-date.
+-  I'm also thrilled about working with a team. Being part of a group lets me share ideas, learn from others, and be part of the team's success.
+-  In a nutshell, I'm looking for a job where I can use my tech skills, keep learning, and contribute to important projects."
 
+
+2- List top 3 softwares / tools that inspire you. Why do these tools inspire you?
+   Visual Studio Code (VSCode):
+   Why it inspires me: VSCode is a lightweight, powerful code editor. It's inspiring because of its simplicity, ease of use, and a vast extension library that 
+   allows developers to customize and enhance their coding experience. As a fresher, I appreciate tools that make coding more efficient and enjoyable.
+
+   GitHub:
+   Why it inspires me: GitHub is a widely used version control platform. It inspires me because of its role in collaborative development. It facilitates teamwork, 
+   code review, fostering a collaborative environment.
+
+   Postman:
+   Why it inspires me: Postman is an API testing and development tool. It inspires me because it simplifies the process of testing APIs and ensures that software 
+   components communicate effectively. As a fresher, understanding how different parts of a system interact is crucial, and tools like Postman make this process 
+   more accessible and manageable.
+
+
+3- List top 3 organisations you like to join in your career & why you like these organisations.
+   Google:
+   Why I'd like to join:
+   Google is renowned for its innovative work culture and groundbreaking projects.
+   The emphasis on learning and development aligns with my passion for continuous growth.
+   The collaborative environment fosters creativity and problem-solving, providing an excellent learning ground for a fresher.
+
+   Microsoft:
+   Why I'd like to join:
+   Microsoft is a global tech giant with a diverse range of projects and products.
+   The company's commitment to inclusivity and diversity creates a welcoming workplace for individuals from various backgrounds.
+   Microsoft's focus on cutting-edge technologies provides an exciting platform for a fresher to contribute to impactful projects.
+   
+   Start-up:
+   Why I'd like to join:
+   Start-ups offer a dynamic environment, allowing for diverse learning experiences.
+   The potential for direct involvement in decision-making and contributing to a company's growth is appealing to someone starting their career.
+   
+4- How you position yourself in this industry after 2 years.
+   In two years, I aim to position myself as a skilled and experienced professional by focusing on the following points:
+   updated with the latest technologies, tools, and industry trends. Engage in continuous learning through online courses, workshops, and conferences.Develop 
+   expertise in specific areas of interest, such as web development.
+
+5- List 3 projects / products you have built or have planned to build in the upcoming year, also explain your role in the same.
+   In the past year, I independently conceptualized, designed, and developed three notable projects that showcase my versatility and commitment to delivering 
+   impactful solutions. 
+
+   WeatherNow: 
+   It is a real-time weather application crafted using React.js, HTML, and CSS. I integrated weather data APIs, achieving optimized performance and 
+   improved user satisfaction. As the sole developer, I handled everything from UI/UX design to API integration, ensuring a seamless and efficient application.
+
+   Quiz App: 
+   I developed with React.js, HTML, CSS, and Material UI. In this project, I took the lead in developing an engaging and dynamic quiz application, 
+   managing the entire process from concept to completion. The app features content sourced from an external API, providing diverse quiz experiences for users.
+
+   Dragon Dash-a game: 
+   A game implemented with JavaScript, HTML, and CSS. The game incorporates sound effects and background music to enhance the gaming atmosphere. 
+   I took full ownership of the development process, from coding game mechanics to UI design and audio integration.
